@@ -5,6 +5,7 @@ public class good2{
 	
 	public void method(){
 		System.out.println("I am method");
+	
 	}	
 }
 
